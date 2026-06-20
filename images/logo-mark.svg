@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">Bright Beginning wavy sun logo mark</title>
+  <defs>
+    <path id="ray" d="M110 16 C126 32 126 48 112 66 C124 61 137 62 151 72 C132 82 118 80 110 68 C102 80 88 82 69 72 C83 62 96 61 108 66 C94 48 94 32 110 16 Z" />
+  </defs>
+  <g fill="#07840f">
+    <use href="#ray" />
+    <use href="#ray" transform="rotate(18 110 110)" />
+    <use href="#ray" transform="rotate(36 110 110)" />
+    <use href="#ray" transform="rotate(54 110 110)" />
+    <use href="#ray" transform="rotate(72 110 110)" />
+    <use href="#ray" transform="rotate(90 110 110)" />
+    <use href="#ray" transform="rotate(108 110 110)" />
+    <use href="#ray" transform="rotate(126 110 110)" />
+    <use href="#ray" transform="rotate(144 110 110)" />
+    <use href="#ray" transform="rotate(162 110 110)" />
+    <use href="#ray" transform="rotate(180 110 110)" />
+    <use href="#ray" transform="rotate(198 110 110)" />
+    <use href="#ray" transform="rotate(216 110 110)" />
+    <use href="#ray" transform="rotate(234 110 110)" />
+    <use href="#ray" transform="rotate(252 110 110)" />
+    <use href="#ray" transform="rotate(270 110 110)" />
+    <use href="#ray" transform="rotate(288 110 110)" />
+    <use href="#ray" transform="rotate(306 110 110)" />
+    <use href="#ray" transform="rotate(324 110 110)" />
+    <use href="#ray" transform="rotate(342 110 110)" />
+  </g>
+  <circle cx="110" cy="110" r="42" fill="#fffdf4" />
+</svg>
